@@ -9,7 +9,6 @@ Cluemaster 1.0 is a LoRA fine-tune of Ministral 3 3B Instruct, released as a 2.1
 - **Model:** [huggingface.co/amandoti/cluemaster-1.0](https://huggingface.co/amandoti/cluemaster-1.0)
 - **Cluemaster Studio:** [amandoti.win/cluemaster/studio.html](https://amandoti.win/cluemaster/studio.html). A browser app that handles the prompt and checks each clue against the rules.
 - **Model page:** [amandoti.win/cluemaster/cluemaster-1-0](https://amandoti.win/cluemaster/cluemaster-1-0)
-- **Cluebench:** [github.com/psalm2517/cluebench](https://github.com/psalm2517/cluebench). The benchmark used for the results below.
 
 ## Results
 
