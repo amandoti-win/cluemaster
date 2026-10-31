@@ -4,8 +4,6 @@ A 3B Codenames spymaster. It reads a board and gives a clue, a number and the wo
 
 Cluemaster 1.0 is a LoRA fine-tune of Ministral 3 3B Instruct, released as a 2.1 GB Q4_K_M GGUF. It runs in Ollama, llama.cpp and LM Studio, and fits fully on a 6 GB graphics card.
 
-![Cluemaster Studio](assets/cluemaster-studio.png)
-
 ## Links
 
 - **Model:** [huggingface.co/amandoti/cluemaster-1.0](https://huggingface.co/amandoti/cluemaster-1.0)
