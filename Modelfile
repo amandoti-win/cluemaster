@@ -1,0 +1,6 @@
+FROM ./cluemaster-1.0-Q4_K_M.gguf
+TEMPLATE """{{ if .System }}<s>[SYSTEM_PROMPT]{{ .System }}[/SYSTEM_PROMPT]{{ end }}{{ if .Prompt }}[INST]{{ .Prompt }}[/INST]{{ end }}{{ .Response }}</s>"""
+PARAMETER stop <s>
+PARAMETER stop [INST]
+PARAMETER temperature 0.3
+PARAMETER num_ctx 4096
